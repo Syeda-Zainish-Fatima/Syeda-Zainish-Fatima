@@ -1,1 +1,51 @@
+name: Update Animations
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Syeda-Zainish-Fatima
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: output
+          keep_files: true
+          
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      
+      - name: Update Stats
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=Syeda-Zainish-Fatima&show_icons=true" > stats.svg
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Zainish-Fatima" > languages.svg
+          
+      - name: Commit Updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update stats" || exit 0
+          git push
