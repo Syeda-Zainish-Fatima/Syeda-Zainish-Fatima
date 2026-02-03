@@ -1,46 +1,70 @@
 <div align="center">
 
-<!-- ==================== ANIMATED TYPING ==================== -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=F472B6&center=true&vCenter=true&width=800&height=80&lines=👋+Hello+World!+I'm+Zainish+✨;💻+AI+Engineer+%26+Data+Scientist+;🤖+Machine+Learning+Specialist;🎨+Creative+Problem+Solver+)](https://git.io/typing-svg)
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=F472B6&center=true&width=800&lines=👋+Hello+World!+I'm+Zainish+✨;💻+AI+Engineer+%26+Data+Scientist;🤖+Machine+Learning+Specialist;🎨+Creative+Problem+Solver" alt="Typing SVG" />
 
-<!-- ==================== ANIMATED BANNER ==================== -->
-<img src="https://raw.githubusercontent.com/Syeda-Zainish-Fatima/Syeda-Zainish-Fatima/main/assets/banner.gif" width="100%" alt="banner"/>
+<!-- BANNER SPACE -->
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=150&section=header" />
+<br/>
 
-<!-- ==================== GITHUB STATS ==================== -->
+<!-- STATS CARDS -->
+<a href="https://github.com/Syeda-Zainish-Fatima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syeda-Zainish-Fatima&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Zainish-Fatima&layout=compact&langs_count=8&theme=radical" />
+</a>
+
+<!-- STREAK -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Syeda-Zainish-Fatima&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<!-- SNAKE -->
+<img src="https://github.com/Syeda-Zainish-Fatima/Syeda-Zainish-Fatima/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+
+</div>
+
+## 🛠️ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,pandas,numpy,sklearn,jupyter,git,github,vscode,docker,aws,mysql,postgresql,cpp&theme=dark" />
+</p>
+
+## 📊 **GitHub Activity**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Syeda-Zainish-Fatima&theme=radical)
+
+## 📂 **Featured Projects**
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Syeda-Zainish-Fatima&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F472B6&text_color=ffffff&icon_color=F472B6" alt="GitHub Stats" />
+    <td align="center">
+      <a href="https://github.com/Syeda-Zainish-Fatima/Sentiment-Analyzer-CPP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeda-Zainish-Fatima&repo=Sentiment-Analyzer-CPP&theme=radical" />
+      </a>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Zainish-Fatima&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F472B6&text_color=ffffff" alt="Top Languages" />
+    <td align="center">
+      <a href="https://github.com/Syeda-Zainish-Fatima/Bank365-PowerBI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeda-Zainish-Fatima&repo=Bank365-PowerBI&theme=radical" />
+      </a>
     </td>
   </tr>
 </table>
 
-<!-- ==================== STREAK STATS ==================== -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Syeda-Zainish-Fatima&theme=radical&hide_border=true&background=0D1117&ring=F472B6&fire=F472B6&currStreakLabel=F472B6)](https://git.io/streak-stats)
+## 📫 **Connect With Me**
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-</div>
-
-<!-- ==================== SNAKE ANIMATION ==================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Syeda-Zainish-Fatima/Syeda-Zainish-Fatima/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+  
+<!-- VIEWS COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=Syeda-Zainish-Fatima&color=F472B6&style=flat-square" />
 
-<!-- ==================== ABOUT ME ==================== -->
-## 👩‍💻 **About Me**
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Syeda Zainish Fatima"
-        self.role = "AI Engineer | Data Scientist"
-        self.location = "Pakistan"
-        self.education = "Computer Science"
-        self.passion = "Building intelligent systems"
-    
-    def skills(self):
-        return ["Machine Learning", "Deep Learning", "Computer Vision", "NLP", "Data Analysis"]
-    
-    def quote(self):
-        return "Transforming data into decisions, code into solutions."
+<!-- QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
