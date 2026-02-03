@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=SYEDA%20ZAINISH%20FATIMA&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00f2ff&center=true&width=800&lines=🚀+AI+Engineer+|+Data+Scientist;🧠+Mixture-of-Experts+Researcher;🎯+Computer+Vision+Expert+(90%+mAP);📊+Business+Intelligence+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00f2ff&center=true&width=800&lines=🚀+AI+Engineer+|+Data+Scientist;🧠+Gated+Mixture-of-Experts+Researcher;🎯+Computer+Vision+Expert+(90%+mAP);📊+Business+Intelligence+Specialist" alt="Typing SVG" />
 
 <br/>
 
@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=target&logoColor=black" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ### 📊 **Data Engineering & BI**
@@ -48,11 +48,11 @@
 
 ---
 
-## 🏆 **Major Achievements**
+## 🏆 **Mission Milestones**
 * 🥇 **National Champion** | DataFest'24 (Pakistan Bureau of Statistics)
 * ⚡ **330% Performance Boost** | Gated MoE Model for Salary Prediction
-* 🎯 **90% mAP Accuracy** | Computer Vision SKU Recognition at PepsiCo
-* 🗺️ **130+ Districts Analyzed** | Pakistan Socioeconomic Strategic Analysis
+* 🎯 **90% mAP Accuracy** | Computer Vision SKU Recognition @ PepsiCo
+* 🗺️ **130+ Districts Analyzed** | National Socioeconomic Strategic Analysis
 
 ---
 
@@ -74,7 +74,7 @@
 
 ## 📫 **Secure Connection**
 <p align="center">
-  <a href="mailto:syeda.zainish@example.com">
+  <a href="mailto:syedazainishfatima@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/syeda-zainish-fatima">
